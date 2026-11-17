@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/raw/
+data/processed/
+data/yolo/
+
+# Model training
+runs/
+*.pt
+
+# IDE / OS
+.vscode/
+.DS_Store
